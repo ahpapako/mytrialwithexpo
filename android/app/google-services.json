@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "494615640025",
+    "project_id": "mytrialwithexpo",
+    "storage_bucket": "mytrialwithexpo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494615640025:android:35561a6446efa549124bc8",
+        "android_client_info": {
+          "package_name": "com.anonymous.myTrialWithExpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494615640025-vvcn5td3f8n4vqhrctiljn0itauhrn8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.myTrialWithExpo",
+            "certificate_hash": "1e071bef6bf3411d9c538beedae7938d4ae10c85"
+          }
+        },
+        {
+          "client_id": "494615640025-vjcglrfh02b18t1mchos3u3c8anfjq6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWEHvZrnDT_MAzYAKwrG9oIymcaN0FhTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494615640025-vjcglrfh02b18t1mchos3u3c8anfjq6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
